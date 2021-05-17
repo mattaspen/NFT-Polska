@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+<h1> NFT Poland Marketplace</h1>
+  
+<h2>Co to jest NFT?</h2>
+<p>NFT (ang. Non-fungible token) to niezamienne, unikatowe aktywo cyfrowe będące jednym z elementów zdecentralizowanej bazy danych, zwanej Blockchain.  NFT istnieje od kilku lat, jednak dopiero z końcem roku 2020 zdobyło popularność, za sprawą wysoko budżetowych aukcji sztuki cyfrowej. Potencjał tego tokena aktualnie widzimy w sztuce cyfrowej, rozrywce, prawach autorskich, ale również jako reprezentację fizycznych aktywów np. luksusowe samochody, nieruchomości. Jednocześnie rozwój technologii i kryptografii, może stanowić nieograniczone możliwości wykorzystania NFT w innych obszarach.</p>
 
-You can use the [editor on GitHub](https://github.com/mattaspen/NFT-Polska/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h2>Cel projektu?</h2>
+<p>Celem projektu jest przygotowanie w pełni funkcjonalnej platformy obsługującej transakcje NFT. Platforma ma być polskim odpowiednikiem opensea.io jednak w przeciwieństwie do opensea.io ma funkcjonawać na technologii Algorand, a nie na sieci Ethereum.</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2>Mikro i makro cele projektu</h2>
+<p>W związku z brakiem zasobów, wiedzy i doświadczenia w technologii blockchain, programowaniu i prowadzeniu tego typu projektów, cały proces będzie podzielony na mniejsze projekty w ramach, których będę pozyskiwał wiedzę i doświadczenie by osiągnąć finalny produkt. Jednocześnie będę poszerzał grupę kontaktów wraz rozwojem grup społecznościowych związanych z tematyką w celu zdobycia partnerów czy współudziałowców do powyższego projektu. Te same grupy społeczne będą pełniły funkcję marketingową i źródło opinii.</p>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mattaspen/NFT-Polska/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
