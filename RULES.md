@@ -14,7 +14,7 @@ W związku z dużym zainteresowaniem na grupie chciałbym wprowadzić kilka zmia
     5. **#NFTPL_Ogloszenia** - Ogłoszenia współpracy, przygotowania artów, zarządzania projektem itp.
     6. **#NFTPL_Hot** - Projekty godne zainteresowania. Post musi zawierać informacje o projekcie, kolekcji czy NFT i waszą opinię dlaczego projekt jest godny uwagi. Wszystkie referencje bez opisu będą usuwane. 
     7. **#NFTPL_News** - Wiadomości ze świata NFT.
-    8. **NFTPL_Wydarzenia** - Nadchodzące wydarzenia ze świata NFT.
+    8. **#NFTPL_Wydarzenia** - Nadchodzące wydarzenia ze świata NFT.
     9. **#NFTPL_Dev** - Wszystkie informacje dotyczące technologi blockchain, NFT. Zapraszam do dyskusji typowo technicznych. Informacje dla developerów.
     10. **#NFTPL_SCAM** - Projekty, które trzeba unikać **NIE LINKUJEMY**. Wystarczy informacja o nazwie i opis. Podejrzane wpisy na grupie można również oznaczać w komentarzach. 
     11. **#NFTPL_Rozrywka** - Posty o tematyce luźnej, nie związane z NFT.
